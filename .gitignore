@@ -5,3 +5,5 @@ test/bin
 test/obj
 test/Properties
 .vs/csMTG
+codeTests
+*.suo
